@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OliviaPalmer
-- 🌱 I’m currently learning all things Cypress.io
+- 🌱 I’m currently learning all things Cypress
 - 📫 How to reach me: olivia@cypress.io
 
 <!---
